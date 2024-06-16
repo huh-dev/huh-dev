@@ -1,5 +1,5 @@
 <h2 align="left">About me 👋</h2>
-<p>A wordpress and react front-end developer!</p>
+<p font-size="12px">A wordpress and react front-end developer!</p>
 
 ###
 
