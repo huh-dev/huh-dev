@@ -18,5 +18,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=Visual-Studio&color=353535) ![Bootstrap](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5&color=353535) ![Bootstrap](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&color=353535) ![Bootstrap](https://img.shields.io/badge/-XAMP-05122A?style=flat&logo=XAMP&color=353535) ![Bootstrap](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=Javascript&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=Visual-Studio-Code&color=353535) ![Bootstrap](https://img.shields.io/badge/-React-05122A?style=flat&logo=React&color=353535) ![Bootstrap](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=Next.js&color=353535) ![Bootstrap](https://img.shields.io/badge/-Wordpress-05122A?style=flat&logo=Wordpress&color=353535) ![Bootstrap](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP&color=353535)
 
 <div>
-![huh-dev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=huh-dev&theme=vue-dark&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=huh-dev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+
 </div>
+
