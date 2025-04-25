@@ -3,7 +3,7 @@
 ###
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=huh-dev.huh-dev&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=huh-dev.huh-dev"  />
 </div>
 
 ###
